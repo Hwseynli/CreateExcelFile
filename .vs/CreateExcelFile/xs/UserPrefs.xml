@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{739892F0-D4BA-4258-9041-30F58AE19B6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreateExcelFile/Dal/DbContext.cs">
+    <Files>
+      <File FileName="CreateExcelFile/Dal/DbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreateExcelFile" expanded="True">
+            <Node name="CreateExcelFile" expanded="True">
+              <Node name="Dal" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CreateExcelFile PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
